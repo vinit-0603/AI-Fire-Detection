@@ -1,6 +1,6 @@
 # AI Based Early Fire Detection System
 
-An autonomous, real-time fire detection and emergency mitigation architecture combining computer vision with hardware automation, developed as part of the 3rd Semester Engineering Clinic Lab at CGC University, Mohali[cite: 6, 7].
+An autonomous, real-time fire detection and emergency mitigation architecture combining computer vision with hardware automation, developed as part of the 3rd Semester Engineering Clinic Lab at CGC University, Mohali.
 
 ## 👥 Team Members (CSE Section D1)
 * **Vinit Kumar** (Team Leader) — Roll No: `2456334`[cite: 6, 7]
